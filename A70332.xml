@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the proceedings of the fleet giving an account of what hath passed since their arrivall at Graves End, between divers honorable members of Parliament and Vice-Admiral Lawson, and the commissioners sent from White-Hall appointed to treat on the behalf of the army : sent in a letter of the 22. instant, from the fleet riding at anchor at Graves-End.</title>
+            <author>M. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70332</idno>
+            <idno type="STC">Wing H900A</idno>
+            <idno type="STC">ESTC R69</idno>
+            <idno type="EEBO-CITATION">13648388</idno>
+            <idno type="OCLC">ocm 13648388</idno>
+            <idno type="VID">100953</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100953)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 789:11 or 1702:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the proceedings of the fleet giving an account of what hath passed since their arrivall at Graves End, between divers honorable members of Parliament and Vice-Admiral Lawson, and the commissioners sent from White-Hall appointed to treat on the behalf of the army : sent in a letter of the 22. instant, from the fleet riding at anchor at Graves-End.</title>
+                  <author>M. H.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Streater,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: M.H.</note>
+                  <note>This item appears as Wing H93 at reel 789:11 (number cancelled in Wing (2nd ed.) and as Wing H900A at reel 1702:3.</note>
+                  <note>Reproduction of originals in Huntington Library and Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100953:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <p>A NARRATIVE <hi>Of the</hi> PROCEEDINGS Of the FLEET: Giving an Account of what hath paſ<g ref="char:EOLhyphen"/>ſed ſince their Arrivall at <hi>Graves End,</hi> between divers Honorable Members of <hi>Parliament</hi> and Vice-Admiral <hi>Lawſon,</hi> and the Commiſſioners ſent from <hi>White-Hall</hi> appointed to Treat on the behalf of the Army.</p>
+            <p>Sent in a Letter of the 22. Inſtant, from the FLEET Riding at Anchor at <hi>Graves-End.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:100953:2"/>
+            <!-- PDF PAGE 31 -->
+            <pb n="3" facs="tcp:100953:2"/>
+            <!-- PDF PAGE 31 -->
+            <head>A <hi>LETTER</hi> of the 22. of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1659, from the <hi>Fleet,</hi> Riding at an Anchor at <hi>Graves-End,</hi> giving an Account of what hath paſſed there ſince the 17<hi rend="sup">th</hi> preſent.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON Saturday morning 17 Inſtant at ten of the clock, Mr. <hi>Scot,</hi> Col. <hi>Okey,</hi> and Mr. <hi>John Streater,</hi> Comp<g ref="char:EOLhyphen"/>troller of the Ordnance, arrived on Board the <hi>Briſtoll,</hi> Captain <hi>Deakint</hi> being Commander of the Ships Riding at an Anchor in <hi>Tilbary-Hope;</hi> half an hour af<g ref="char:EOLhyphen"/>ter, on Board the ſame Ship, arrived Sir <hi>Henry Vain,</hi> Major <hi>Sa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>loway,</hi> Mr. <hi>Courtney,</hi> and Mr. <hi>Thankfull Owen:</hi> Captain <hi>Deaki<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> about two of the Clock commanded the <hi>Drake</hi> Frigot to weigh Anchor, and ſet ſail either to meet Vice-Admiral <hi>Lawſon,</hi> who then was thought to ride with the Fleet in <hi>Margarets</hi> Rode;
+<pb n="4" facs="tcp:100953:3"/>
+               <!-- PDF PAGE 32 -->or was ſailing towards the <hi>Hope:</hi> The Gentlemen before mentioned went on Board the <hi>Drake</hi> Frigat; and after four hours ſailing, ſhe met the Fleet: The Gentlemen went on board the <hi>James</hi> to the Vice-Admiral. Sir <hi>Hen. Vain</hi> endeavoured to perſwade the Vice-Admiral. Sir <hi>Hen. Vain</hi> endeavoured to perſwade the Vice-Admirall to come to an Anchor in the place where he met him: The Vice-Admiral refuſed, and came to an Anchor at 8. in the Evening a little below <hi>Graves-End.</hi>
+            </p>
+            <p>Nothing paſſed that Night worth the taking Notice of; but on the Sabbath-day the 18. Inſtant, about two in the Afternoon, the Vice-Admiral called a Council of War, there being preſent the Gentlemen before mentioned; the three firſt in behalf of the Parliament; and the latter as Mediators between the Ar<g ref="char:EOLhyphen"/>my and the Fleet; unto whoſe ayd came Colonel <hi>Salmon,</hi> and Col. <hi>Barrow.</hi>
+            </p>
+            <p>The Vice Admirall began, expreſſing in an excellent Diſ<g ref="char:EOLhyphen"/>courſe the Reaſons and Grounds of the Fleets coming in to the River, and their declaring their Reſolutions to endeavour the Reſtoring of the Parliament to the Exerciſe of their Authority, they judging them the onely means to Reſtore Peace and Set<g ref="char:EOLhyphen"/>tlement unto theſe diſtreſſed Nations, almoſt ruined with Changes, decay and loſſe of Trade occaſioned thereby, and the like. After which, he cauſed the <hi>Declaration</hi> of the Fleet to be read, together with his Letter to the late Lieutenant Generall <hi>Fleetwood,</hi> and the Letter to the Lord Mayor, Court of Alder<g ref="char:EOLhyphen"/>men, and Common-Councell of <hi>London:</hi> After which, the Vice-Admirall gave a Narrative of Colonel <hi>Barrow</hi>'s Negotia<g ref="char:EOLhyphen"/>tions with him in the <hi>Downes;</hi> as alſo what paſt between him, Col. <hi>White,</hi> and Captain <hi>Kingdom,</hi> which was to this purpoſe, <hi>viz.</hi> they deſired him to forbear Declaring, eſpecially in be<g ref="char:EOLhyphen"/>half of the Parliament: Likewiſe, That if he ſhould offer to come out of the <hi>Downes, Charls Stuart</hi> would immediately Tranſport Men over to <hi>England,</hi> who had (as they a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>edged) <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sayl at <hi>Oſtend,</hi> which were ready.</p>
+            <p>To which the Vice-Admirall anſwered; As to the firſt, He was Reſolved, with the whole Fleet, to Declare, and with their Lives and Fortunes to purſue it in all points as become Engliſh<g ref="char:EOLhyphen"/>men, in order to the Reſtoration of their Liberties: To the Se<g ref="char:EOLhyphen"/>cond; He had Intelligence from <hi>Oſtend,</hi> That there were no Ships
+<pb n="5" facs="tcp:100953:3"/>
+               <!-- PDF PAGE 32 -->ready, but ſome ſmall Pickeroons; and that he ſhould leave at <hi>Dunkink</hi> and the Coaſt of <hi>Flanders</hi> ſufficient Force to attend their Motion. And moreover, he ſhould leave 3. or 4. ſmall Fri<g ref="char:EOLhyphen"/>gats in the <hi>Downes</hi> (as he hath) that ſhould be enough to ſecure <hi>England</hi> from any preſent Danger, that any preparations that were on foot at preſent could threaten; as alſo, that he was certain <hi>Charls Stuart</hi> had no other Forces ready, nor could not in any reaſonable time, if He had Ships. Colonel <hi>Salmon</hi> endeavou<g ref="char:EOLhyphen"/>red to perſwade the Vice-Admiral, and the Council of War, to ſend five or ſix more Frigats to the Downes, but could not pre<g ref="char:EOLhyphen"/>vail; They were Reſolved to keep Intire, and rather look after the Enemy in the heart of their Country, then thoſe in the Extream Parts: Colonel <hi>Salmon</hi> and Colonel <hi>Barrow</hi> fell both of them upon the Parliament, alleadging that they had not done any good to the Nation: to which, it was Replyed, That the Reaſons were, for that the Army had alwayes bin the Obſtruction and Hinderance, by their Impoſing upon the Parliament ſuch things as not onely hindered the Good which they ought in Duty to have done to their Country, but alſo forced and over-awed Them to do thoſe things that gave offence and diſlike to the Peo<g ref="char:EOLhyphen"/>ple in General; to which, <hi>Barrow</hi> and <hi>Salmon</hi> Replyed, That then, if they ſtood in the diſlike of the People, it was Expedient and Rational to compoſe All to call a Free Parliament, or ano<g ref="char:EOLhyphen"/>ther Parliament under Qualifications, rather then that Parlia<g ref="char:EOLhyphen"/>ment: Unto which it was Anſwered, That the Parliament was the onely Viſible Power of the Nation, and that it is really in beeing by Act of Parliament; and that if they ſhould not meet, and devolve the Supream Power over to ſucceſſion of Parliaments, they muſt receive their Parliaments, whether Free or Limited by Qualifications, from the power of a Com<g ref="char:EOLhyphen"/>mittee of Safety, who received their power from the Army, who have nothing to do with giving of Laws to the Nation; and, That it was the Duty of every man to oppoſe and hinder the carrying on of any ſuch pernitious Deſigns, which tended to nothing leſs then the Converting the Supream Power of the Nation into the Hands of the Army: For that if they ſhould ſubmit to have a Free Parliament, then if they did but harp up<g ref="char:EOLhyphen"/>on the ſtring of <hi>Charls Stuart,</hi> they would Diſſolve Them, and
+<pb n="6" facs="tcp:100953:4"/>
+               <!-- PDF PAGE 33 -->plead that Parliaments would not do the Work, and that God had a mind to lay aſide that Idol of the People, Parliaments, ſo it would fall into the Hands of a refin'd Intereſt, the Army; and if that the Parliament, Elected by the Authority of the Army, ſhould not fall upon a Single Perſon, in Deſign to prevent them of their Deſign againſt Parliaments: Yet, what would they do when they ſhall be Over-ruled by the 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conſervators, whoſe Judgment and Intereſt muſt be put into the Ballance with the Judgment and Intereſt of the Publick. To the laſt, it was Re<g ref="char:EOLhyphen"/>plyed by the Madiators, That the Conſervators might poſſibly be layed aſide; To which it was anſwered, That in the room of them, the General Council of the Army would undertake that matter: It was Replyed by the Mediators, That the Army had reaſon ſo to do, to ſee that what they had Fought for, ſhould not be loſt at a Breath; unto which was anſwered, That the Parlia<g ref="char:EOLhyphen"/>ment were oblidged in an higher Nature than the Army, to pre<g ref="char:EOLhyphen"/>vent that; beſides, That the Parliament could not do it, in re<g ref="char:EOLhyphen"/>gard that what was Fought for, was the publick Intereſt, and the Parliament muſt neceſſarily adhere to the publick Intereſt. That the Army never intended other, then to fortifie its Self againſt the publick Intereſt, by ſetting it Self up as a diſtinct Corporati<g ref="char:EOLhyphen"/>on over the People and publick Intereſt; the which, was appa<g ref="char:EOLhyphen"/>rent by their preſent Practiſes, and therefore it was neceſſary that the Army ſhould be brought under the Civil Power, above which it had Exalted it Self for ſeveral years laſt paſt: And that although they promiſed to ſit under that which they now ſhould ſet Up; all the World knoweth they might pull down what they ſet up, notwithſtanding their Promiſe; for the World knoweth that yet no Promiſe, Covenant, Engagement, or De<g ref="char:EOLhyphen"/>claration ever held Them. Therefore it is neceſſary to oppoſe Them, ſince They ſtrike at All, eſpecially, when that their pre<g ref="char:EOLhyphen"/>ſent offer of a Parliament, Free, or Qualified, tendeth to nothing but to avoid the preſent Emergency, of what is threatened by Generall <hi>MONCK</hi> and Vice-Admiral <hi>LAWSON,</hi> and the other Forces of the Commonwealth, who (no doubt) with the bleſſing of the Al<g ref="char:EOLhyphen"/>mighty, will bring Them to Account for all heir Horrid Per<g ref="char:EOLhyphen"/>juries, Breach of Truſt, Blaſtings and Abuſing of the Nation,
+<pb n="7" facs="tcp:100953:4"/>
+               <!-- PDF PAGE 33 -->by pretending the ſecuring of the Cauſe, the refined Intereſt, and the People of God, when nothing was more Deſtructive there<g ref="char:EOLhyphen"/>unto, then their preſent Proceedings, which doth overthrow and endanger all together; and deſtroy the Trade and Navigati<g ref="char:EOLhyphen"/>on, obſtructing of Juſtice, and diſcompoſing the Harmony of Government, to the diſhonour of God, and diſquiet of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Nations: Beſides, there is nothing leſs to be expected from Them; Nay, ſome of Them have boaſted, that ſo ſoon as this Danger is over they will bridle this Nation well enough with<g ref="char:EOLhyphen"/>out <hi>Parliaments;</hi> therefore the People are to have a care they be not taken by the ſnare of their ſpecious Pretences, ſince it is certain, no <hi>Parliament</hi> can be called that knoweth better how to rid the Nation of theſe unquiet and dangerous Perſons: Moreover, it was largely diſcourſed and proved, that this <hi>Par<g ref="char:EOLhyphen"/>liament</hi> ever did what they could poſſible (in their ſitting before <hi>Cromwell</hi>'s Interruption) to ſhake of the Yoke of the Army, that thereby they might arrive at the work of Setling the Nation upon the juſt and honourable Baſis of true Freedom, ſuch as might conſiſt with the Preſervation of Publique Intereſt: The like they did at their laſt Sitting, it is evident to the whole World, They made it appear, that they did not intend longer to lend their Authority to be a Mask to the <hi>Armies</hi> Tyranny: Beſides, It was made appear, that when they were admitted the laſt time to the Exerciſe of their Authority, it was to no other end than to be a Shield to defend the Ring-leaders of miſchief in the <hi>Army;</hi> For ſome ſmall time, to colour their Act of turn<g ref="char:EOLhyphen"/>ing out <hi>Richard</hi> and his <hi>Parliament,</hi> untill they ſhould find an Occaſion or fit Opportunity to turn them our again, ſo that they might arrive at what they aimed at, <hi>viz.</hi> The Tyrannizing over the Nation: Nay, in their Private Cabals, there are ſome of them have adviſed rather to chooſe a <hi>Free Parliament,</hi> than a <hi>Parliament</hi> that ſhall be choſen with Qualifications, in regard they ſhould have Opportunity adminiſtred ſooner for their tur<g ref="char:EOLhyphen"/>ning out.</p>
+            <p>There were many more particulars diſcourſed of; but my memory, together with my time, preventeth me of giving You the particulars: But, let me aſſure You, they were the beſt that ever I heard, in ſo much that they concurring with the Judg<g ref="char:EOLhyphen"/>ment
+<pb n="8" facs="tcp:100953:5"/>
+               <!-- PDF PAGE 34 -->and Reſolution of the honeſt and gallant Sea-Comman<g ref="char:EOLhyphen"/>ders, 4 or 5 of the diſſenting Commanders that ſtood out at the firſt were convinced, and ſigned the Declaration, before the faces of the Mediators. <hi>Sir,</hi> There being nothing of Action at the preſent, I forbear to give You any further Account, in regard that what they intend further is under conſideration in order to Action; the which no doubt will produce another face upon things, if the <hi>Wallingfordians</hi> ſhall ſtill perſiſt in their Folly and Madneſſe, againſt which and Them God in his providence will witneſs, to the deliverance of theſe almoſt deſtroyed Nations; in which work, it is the Duty of every Engliſh-man to aſſiſt, that Poſterity may be happy under a Succeſſion of <hi>Parliamentary Authority,</hi> derived from a Civil, rather than a Military Foun<g ref="char:EOLhyphen"/>tain, from whence floweth nothing but Abſoluteneſs, Pride, and unlimited, arbitrary, and Tyrannical Streams.</p>
+            <p>
+               <hi>Sir,</hi> I do not queſtion but You will contribute your aid in this Work, and endeavour to undeceive the Nation of the Pre<g ref="char:EOLhyphen"/>tence of the <hi>Army,</hi> in calling a <hi>Parliament</hi> together; with the Danger of receiving a <hi>Parliament</hi> from an <hi>Army,</hi> in which the Nation doth no leſs than grant the <hi>Army</hi> to be the Supream Authority: Beſides, when it is Their Deſign in Calling them, for no other End than to levy Mony, to hold You and your Poſterity in Slavery and Bonds not eaſily to be ſhaken off.</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your Friend, and faithfull Servant to the Publique, <hi>M. H.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
